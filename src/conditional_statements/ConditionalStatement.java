@@ -38,7 +38,7 @@ public class ConditionalStatement {
 
         switch(x){
             case 12:
-                System.out.println("Given number is 10");
+                System.out.println("What gift did i get");
             case 100:
                 System.out.println("Given number is 100");
             default:
