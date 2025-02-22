@@ -7,8 +7,10 @@ public class Main {
 
         myPet = new Cat();
         myPet.makeNoise();
+        myPet.run();
 
         myPet = new Dog();
         myPet.makeNoise();
+        myPet.run();
     }
 }
